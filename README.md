@@ -1,6 +1,6 @@
-# cybersecurity-resources
+# Heinrich's Ultimate Library
 
-Collection of links to Cyber Security training resources for easy referencing.
+Collection of resources for anything IT related (from CyberSecurity, Homelab, DevOps, etc)
 
 ## 🔴 Red Team
 ### Platforms:
